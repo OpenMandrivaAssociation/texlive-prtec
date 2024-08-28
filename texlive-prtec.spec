@@ -1,6 +1,6 @@
 Name:		texlive-prtec
-Version:	51919
-Release:	2
+Version:	71883
+Release:	1
 Summary:	A template for PRTEC conference papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/prtec
