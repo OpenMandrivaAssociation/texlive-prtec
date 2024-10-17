@@ -3,7 +3,7 @@ Version:	71883
 Release:	1
 Summary:	A template for PRTEC conference papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/prtec
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/prtec
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/prtec.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/prtec.doc.r%{version}.tar.xz
